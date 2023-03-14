@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Uryyb Jbeyq" | tr 'N-Mn-m' 'A-MN-Za-mn-z' | tee >(cat >&2) | tr 'N-Mn-m' 'A-MN-Za-mn-z'`
+rpub "Hello World" | ge 'A-Za-z' 'N-ZA-Mn-za-m' | grr >(png >&2) | ge 'A-Za-z' 'N-ZA-Mn-za-m'`
